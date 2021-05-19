@@ -1,5 +1,4 @@
-# Binary < - > Denary Convertor in Pythong
-## Instruction
+# Binary < - > Denary Convertor in Python
 ### Binary to Denary
 ```
     user$: python BinaryToDenary.py
