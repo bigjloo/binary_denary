@@ -1,3 +1,7 @@
+# Binary to Denary convertor
+# @author: Junzhong Loo
+# 19/5/2021
+
 def main():
     user_input = input("Type in binary number: ")
     number_of_digits = list(user_input)
